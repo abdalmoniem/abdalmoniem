@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AbdAlMoniem AlHifnawy</h1>
 <h3 align="center">A Software Engineer with 5+ years of experience in Embedded Systems, Linux, Robotics, Android Development, Game Development, Database Administration and System Administration.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdalmoniem&label=Profile%20views&color=0e75b6&style=plastic" alt="abdalmoniem" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdalmoniem&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abdalmoniem" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abdalmoniem&theme=matrix&column=4&no-frame=true&margin-w=5&margin-h=5&no-bg=true" alt="abdalmoniem" /> </p>
 
